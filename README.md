@@ -1,9 +1,11 @@
 Telegram Web Messenger
 
-https://img.shields.io/badge/version-1.0.0-blue
+[https://img.shields.io/badge/version-1.0.0-blue
 https://img.shields.io/badge/license-MIT-green
 https://img.shields.io/badge/status-active-success
-
+](https://img.shields.io/badge/version-1.0.0-blue
+https://img.shields.io/badge/license-MIT-green
+https://img.shields.io/badge/status-active-success)
 📋 Overview
 
 Telegram Web Messenger adalah aplikasi web minimalis dan responsif untuk mengirim pesan ke bot Telegram secara langsung melalui browser. Aplikasi ini menyediakan antarmuka yang intuitif dengan fitur real-time status monitoring dan animasi feedback visual.
